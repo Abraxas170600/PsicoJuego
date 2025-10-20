@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: f172e2df4395e654abfca71cc127e121
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Atlas UI_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1916
+        width: 1735
+        height: 2294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8541558ee0749fc4a94fbc1d6382564d
+      internalID: -796135390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_1
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3972
+        width: 1371
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeec6282674c9640bae01d5f850b53f
+      internalID: -1810188953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_2
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3683
+        width: 1140
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14425f451ff383c43958dce1fe62530c
+      internalID: -919459460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_3
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3462
+        width: 540
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b89c309616c04fa5f90fcf5e29837
+      internalID: 2087845629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_4
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3481
+        width: 1198
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d915bba3fcdfa448e3f664020db2be
+      internalID: 1479664267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_5
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 3389
+        width: 187
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40809991ff17c784e93368841958fd34
+      internalID: -1211079156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_6
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 3339
+        width: 1185
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4210862766ec9940bd28f7dfccbb5b7
+      internalID: 226426497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_7
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2149
+        width: 2332
+        height: 1146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5bdcb1b3542ce48b39b5d22c96c2c3
+      internalID: -1106443364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 879
+        width: 4075
+        height: 871
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24967d21ec2a84d94b2e650936b01f
+      internalID: 2001596163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_56
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 139
+        width: 567
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581819572e4d0a428089b26b6b4cd28
+      internalID: 562998707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_57
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 139
+        width: 568
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079a67f175c3574cbf358378e1eb3a2
+      internalID: -2083078272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_58
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 139
+        width: 570
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11bd75cc35477459e95a121c2838cc
+      internalID: 1596845423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas UI_59
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 139
+        width: 569
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47677843e25820549aa442c10a46edd7
+      internalID: 963834831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00394d1263a69a54b926f09090e7bd70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprite Atlas UI_0: -796135390
+      Sprite Atlas UI_1: -1810188953
+      Sprite Atlas UI_10: 151936579
+      Sprite Atlas UI_11: -509301774
+      Sprite Atlas UI_12: -414095891
+      Sprite Atlas UI_13: 721836017
+      Sprite Atlas UI_14: 957194471
+      Sprite Atlas UI_15: 341997271
+      Sprite Atlas UI_16: -1635892285
+      Sprite Atlas UI_17: 1677849779
+      Sprite Atlas UI_18: -1304878872
+      Sprite Atlas UI_19: -1841166797
+      Sprite Atlas UI_2: -919459460
+      Sprite Atlas UI_20: 1694382385
+      Sprite Atlas UI_21: -466866491
+      Sprite Atlas UI_22: 202480972
+      Sprite Atlas UI_23: -1074871837
+      Sprite Atlas UI_24: -2005055979
+      Sprite Atlas UI_25: -268540612
+      Sprite Atlas UI_26: 1387024960
+      Sprite Atlas UI_27: -969428483
+      Sprite Atlas UI_28: 1602194484
+      Sprite Atlas UI_29: 437498030
+      Sprite Atlas UI_3: 2087845629
+      Sprite Atlas UI_30: 1613869287
+      Sprite Atlas UI_31: 1336669067
+      Sprite Atlas UI_32: 1154778872
+      Sprite Atlas UI_33: -1166045580
+      Sprite Atlas UI_34: -1647577679
+      Sprite Atlas UI_35: 128255615
+      Sprite Atlas UI_36: -227163369
+      Sprite Atlas UI_37: -1672824145
+      Sprite Atlas UI_38: 1739916479
+      Sprite Atlas UI_39: 956337421
+      Sprite Atlas UI_4: 1479664267
+      Sprite Atlas UI_40: -1337278915
+      Sprite Atlas UI_41: -16641264
+      Sprite Atlas UI_42: 1688515878
+      Sprite Atlas UI_43: -334833864
+      Sprite Atlas UI_44: 780191865
+      Sprite Atlas UI_45: 1908717981
+      Sprite Atlas UI_46: -1166204727
+      Sprite Atlas UI_47: 1911658255
+      Sprite Atlas UI_48: 2001596163
+      Sprite Atlas UI_49: 901759236
+      Sprite Atlas UI_5: -1211079156
+      Sprite Atlas UI_50: -1083171237
+      Sprite Atlas UI_51: -1238014690
+      Sprite Atlas UI_52: -1137006595
+      Sprite Atlas UI_53: 454226569
+      Sprite Atlas UI_54: 1171683306
+      Sprite Atlas UI_55: 597254698
+      Sprite Atlas UI_56: 562998707
+      Sprite Atlas UI_57: -2083078272
+      Sprite Atlas UI_58: 1596845423
+      Sprite Atlas UI_59: 963834831
+      Sprite Atlas UI_6: 226426497
+      Sprite Atlas UI_7: -1106443364
+      Sprite Atlas UI_8: -2053334583
+      Sprite Atlas UI_9: 1649064197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
