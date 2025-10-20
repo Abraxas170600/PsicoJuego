@@ -152,19 +152,19 @@ public class BattleController : MonoBehaviour
         Events.EmitMonsterAttackHit(dealt);                      // numeritos/flashes
         yield return new WaitForSeconds(Settings.monsterHitPause);
 
-        var miedo = ScriptableObject.CreateInstance<StatusEffectSO>();
-        miedo.Id = "fear";
-        miedo.DisplayName = "Miedo";
-        miedo.Sign = StatusSign.Negative;
-        miedo.Timing = StatusTiming.OnTurnEndPlayer;
-        miedo.Stackable = false;
-        miedo.MaxStacks = 1;
-        miedo.flatAttackDelta = -2;
-        // Si en el futuro se añade flatDefenseDelta, asignarlo aquí.
+        //var miedo = ScriptableObject.CreateInstance<StatusEffectSO>();
+        //miedo.Id = "fear";
+        //miedo.DisplayName = "Miedo";
+        //miedo.Sign = StatusSign.Negative;
+        //miedo.Timing = StatusTiming.OnTurnEndPlayer;
+        //miedo.Stackable = false;
+        //miedo.MaxStacks = 1;
+        //miedo.flatAttackDelta = -2;
+        //// Si en el futuro se añade flatDefenseDelta, asignarlo aquí.
 
-        Player.Statuses.Add(new RuntimeStatus(miedo, 2));
-        Events.EmitStatusApplied(Player, miedo, 2);
-        Events.EmitMonsterStatusShown(miedo.DisplayName, 2);
+        //Player.Statuses.Add(new RuntimeStatus(miedo, 2));
+        //Events.EmitStatusApplied(Player, miedo, 2);
+        //Events.EmitMonsterStatusShown(miedo.DisplayName, 2);
 
         yield return new WaitForSeconds(Settings.monsterStatusPause);
 

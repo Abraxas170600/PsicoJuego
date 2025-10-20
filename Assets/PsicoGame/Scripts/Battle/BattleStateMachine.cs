@@ -25,6 +25,7 @@ public class BattleStateMachine
 
             case BattleState.MonsterAction:
                 // La corrutina ya corre; aquí basta con esperar a que termine un frame
+                _controller.MonsterAct();
                 State = BattleState.ResolveEnd;
                 break;
 
